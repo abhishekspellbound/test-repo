@@ -1,1 +1,1 @@
-# test-repo-with-sunen
+# test-repo-with-sunen-protected
